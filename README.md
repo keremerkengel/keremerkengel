@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @keremerkengel
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Pyhton and C++
+ , HTML 
 - 📫 If you want to reach me, my e-mail is: keremerkengel@gmail.com
