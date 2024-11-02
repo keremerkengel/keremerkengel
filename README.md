@@ -17,8 +17,7 @@
   <h3>Development Tools</h3>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vscode,figma&theme=dark&perline=4" />
   
-  <details>
-    <summary><h3>🎯 Detailed Skills</h3></summary>
+
     <div>
       <h4>🎨 Styling</h4>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
