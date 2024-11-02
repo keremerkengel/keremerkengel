@@ -27,27 +27,9 @@
 </div>
 <div align="center">
   <h2>Featured Projects</h2>
-  
-  <details>
+
    
-    <div>
-      <a href="https://github.com/keremerkengel/restaurant-menu">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=restaurant-menu&theme=midnight-purple&border_radius=10"/>
-      </a>
-      
-      <br/><br/>
-      
-      <a href="https://github.com/keremerkengel/X-O-X-Game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=X-O-X-Game&theme=midnight-purple&border_radius=10"/>
-      </a>
-      
-      <br/><br/>
-      
-      <a href="https://github.com/keremerkengel/GetLife">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=GetLife&theme=midnight-purple&border_radius=10"/>
-      </a>
-    </div>
-  </details>
+
 </div>
 
 
