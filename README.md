@@ -104,5 +104,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
 
-<!-- Gizli mesaj -->
-<h6>💫 Hey! You found the secret message. You must be a details person - perfect for frontend development! 💫</h6>
