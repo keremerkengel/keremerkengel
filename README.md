@@ -25,30 +25,7 @@
     <img src="https://img.shields.io/badge/Adım_Adım_Kendi_Web_Projelerini_İnşa_Et:_Frontend'e_Yolculuk-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </div>
-<div align="center">
-  <h2>Featured Projects</h2>
-  
-  <details>
-    <summary><h3>🌟 Click to see my works</h3></summary>
-    <div>
-      <!-- React E-commerce Project -->
-      <h4>🛍️ Modern E-commerce Website</h4>
-      <p>A fully responsive e-commerce platform built with React and Next.js. Features include dark mode, animations, and a seamless shopping experience.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      
-      <br/><br/>
-      
-      <!-- UI Component Library -->
-      <h4>🎨 UI Component Library</h4>
-      <p>A comprehensive React component library with modern design system. Includes full documentation and Storybook integration.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-    </div>
-  </details>
-</div>
+
 
 
 
