@@ -25,6 +25,51 @@
     <img src="https://img.shields.io/badge/Adım_Adım_Kendi_Web_Projelerini_İnşa_Et:_Frontend'e_Yolculuk-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </div>
+<div align="center">
+  <h2>Featured Projects</h2>
+  
+  <details>
+    <summary><h3>🌟 Click to see my works</h3></summary>
+    <div>
+      <!-- Restaurant Menu Project -->
+      <a href="https://github.com/keremerkengel/restaurant-menu">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=restaurant-menu&theme=midnight-purple&border_radius=10"/>
+      </a>
+      <br/>
+      <h4>🍽️ Restaurant Menu Web Application</h4>
+      <p>A modern restaurant menu application with filtering capabilities and responsive design. Built for a seamless dining experience.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      
+      <br/><br/>
+      
+      <!-- X-O-X Game Project -->
+      <a href="https://github.com/keremerkengel/X-O-X-Game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=X-O-X-Game&theme=midnight-purple&border_radius=10"/>
+      </a>
+      <br/>
+      <h4>🎮 Interactive Tic-Tac-Toe Game</h4>
+      <p>Classic X-O-X game implemented with modern web technologies. Features include player turn tracking and win detection.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+      <br/><br/>
+      
+      <!-- GetLife Project -->
+      <a href="https://github.com/keremerkengel/GetLife">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=GetLife&theme=midnight-purple&border_radius=10"/>
+      </a>
+      <br/>
+      <h4>🌟 GetLife Web Project</h4>
+      <p>A web application focused on lifestyle and personal development. Features a clean, modern interface and user-friendly design.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </div>
+  </details>
+</div>
 
 
 
