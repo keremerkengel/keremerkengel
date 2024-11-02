@@ -8,11 +8,11 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<div align="center">
-  <h2>
-    <img style="margin-bottom=2px" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-    Frontend Technologies
-  </h2>
+
+
+  <img style="margin-bottom=2px" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+  
+ 
   
   <!-- Ana Teknolojiler -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next&theme=dark&perline=6" />
