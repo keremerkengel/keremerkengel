@@ -101,7 +101,7 @@
   </a>
   <br/>
   <h3>📝 Check out my latest articles on Medium!</h3>
-  <a href="https://medium.com/@keremerkengel" target="_blank">
+  <a href="[https://medium.com/@keremerkengel](https://medium.com/@keremerkengel/ad%C4%B1m-ad%C4%B1m-kendi-web-projelerini-i%CC%87n%C5%9Fa-et-frontende-yolculuk-4f369e82f78b)" target="_blank">
     <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@keremerkengel&theme=dark"/>
   </a>
 </div>
