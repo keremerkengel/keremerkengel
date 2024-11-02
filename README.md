@@ -32,6 +32,7 @@
       <a href="https://github.com/keremerkengel/restaurant-menu">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=restaurant-menu&theme=midnight-purple&border_radius=10"/>
       </a>
+       <br/><br/>
 
   <a href="https://github.com/keremerkengel/GetLife">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=GetLife&theme=midnight-purple&border_radius=10"/>
