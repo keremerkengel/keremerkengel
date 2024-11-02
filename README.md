@@ -102,7 +102,7 @@
   <br/>
   <h3>📝 Check out my latest articles on Medium!</h3>
   <a href="[https://medium.com/@keremerkengel](https://medium.com/@keremerkengel/ad%C4%B1m-ad%C4%B1m-kendi-web-projelerini-i%CC%87n%C5%9Fa-et-frontende-yolculuk-4f369e82f78b)" target="_blank">
-    <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@keremerkengel&theme=dark"/>
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=8B5CF6"/>
   </a>
 </div>
 <div align="center">
