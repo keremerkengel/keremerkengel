@@ -8,21 +8,18 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+    Tech Stack
+  </h2>
 
-
-  <img style="margin-bottom=2px" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-  
- 
-  
-  <!-- Ana Teknolojiler -->
+  <h3>Main Technologies</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next&theme=dark&perline=6" />
   
-
-  
-  <!-- UI Teknolojileri -->
+  <h3>UI & Development Tools</h3>
   <img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,figma&theme=dark&perline=4" />
   
-  <!-- Detaylı Teknoloji Kartları -->
   <details>
     <summary><h3>🎯 Detailed Skills</h3></summary>
     <div>
@@ -54,29 +51,26 @@
 </div>
 
 <div align="center">
-  <h2>🎨 Featured Projects</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+    Featured Projects
+  </h2>
   
   <details>
     <summary><h3>🌟 Click to see my works</h3></summary>
     <div>
-      <!-- Proje 1 -->
-      <a href="link-gelecek">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=repo-adı&theme=midnight-purple&border_radius=10"/>
-      </a>
-      <br/>
-      <h4>Modern E-commerce Website</h4>
-      <p>Built with React, Next.js, and Tailwind CSS. Features include responsive design, dark mode, and animations.</p>
+      <!-- React E-commerce Project -->
+      <h4>🛍️ Modern E-commerce Website</h4>
+      <p>A fully responsive e-commerce platform built with React and Next.js. Features include dark mode, animations, and a seamless shopping experience.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       
-      <!-- Proje 2 -->
-      <a href="link-gelecek">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=repo-adı&theme=midnight-purple&border_radius=10"/>
-      </a>
-      <br/>
-      <h4>UI Component Library</h4>
-      <p>Custom React component library with styled-components and comprehensive documentation.</p>
+      <br/><br/>
+      
+      <!-- UI Component Library -->
+      <h4>🎨 UI Component Library</h4>
+      <p>A comprehensive React component library with modern design system. Includes full documentation and Storybook integration.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
@@ -85,8 +79,22 @@
 </div>
 
 <div align="center">
-  <h2>🤝 Connect With Me</h2>
-  <!-- Sosyal Medya Bağlantıları -->
+  <h2>
+    <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="28">
+    Latest Medium Article
+  </h2>
+
+  <a href="https://medium.com/@keremerkengel/ad%C4%B1m-ad%C4%B1m-kendi-web-projelerini-i%CC%87n%C5%9Fa-et-frontende-yolculuk-4f369e82f78b" target="_blank">
+    <img src="https://img.shields.io/badge/Adım_Adım_Kendi_Web_Projelerini_İnşa_Et:_Frontend'e_Yolculuk-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/c8SKOuS54ZhGE/giphy.gif" width="28">
+    Let's Connect!
+  </h2>
+  
   <a href="https://www.linkedin.com/in/keremerkengel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
   </a>
@@ -99,12 +107,8 @@
   <a href="https://medium.com/@keremerkengel" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=8B5CF6"/>
   </a>
-  <br/>
-  <h3>📝 Check out my latest articles on Medium!</h3>
-  <a href="[https://medium.com/@keremerkengel](https://medium.com/@keremerkengel/ad%C4%B1m-ad%C4%B1m-kendi-web-projelerini-i%CC%87n%C5%9Fa-et-frontende-yolculuk-4f369e82f78b)" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=8B5CF6"/>
-  </a>
 </div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
