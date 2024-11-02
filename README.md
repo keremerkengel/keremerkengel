@@ -29,7 +29,7 @@
   <h2>Featured Projects</h2>
   
   <details>
-    <summary><h3>🌟 Click to see my works</h3></summary>
+   
     <div>
       <a href="https://github.com/keremerkengel/restaurant-menu">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=restaurant-menu&theme=midnight-purple&border_radius=10"/>
