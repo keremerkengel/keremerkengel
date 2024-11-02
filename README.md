@@ -1,58 +1,79 @@
 <div align="center">
-  <img height="200" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:8B5CF6&height=200&section=header&text=Kerem%20Erkengel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descAlign=50"/>
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%AF;Tech+Explorer+%F0%9F%9A%80;Creative+Coder+%E2%9C%A8" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <a href="https://github.com/keremerkengel?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/keremerkengel?color=8B5CF6&style=for-the-badge&labelColor=1f2233&logo=star"/></a>
-  <a href="https://github.com/keremerkengel?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/keremerkengel?color=8B5CF6&labelColor=1f2233&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</div>
-
-<br/>
-
-<h2 align="center">⚡ Tech Stack</h2>
-<br/>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,python,git,figma&theme=dark&perline=4" />
-</div>
-
-<br/>
-
-<h2 align="center">📊 Statistics</h2>
-<br/>
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=keremerkengel&theme=midnight-purple&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=keremerkengel&count_private=true&show_icons=true&theme=midnight-purple&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremerkengel&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/>
-
-<h2 align="center">🏆 Featured Projects</h2>
-<br/>
-
-<div align="center">
-  <a href="https://github.com/keremerkengel/repo-adı">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=repo-adı&theme=midnight-purple&border_radius=10" alt="readme stats" />
-  </a>
-  <a href="https://github.com/keremerkengel/repo-adı">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=repo-adı&theme=midnight-purple&border_radius=10" alt="readme stats" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8B5CF6&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Kerem+Erkengel+%F0%9F%91%8B;Welcome+to+my+Profile!" alt="Typing SVG" />
   </a>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
-<h2 align="center">🤝 Connect With Me</h2>
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+    Tech Stack & Tools
+  </h2>
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,python,git,figma&theme=dark&perline=8" />
+  
+  <!-- Teknoloji kartları -->
+  <details>
+    <summary><h3>🎯 Click to see more skills</h3></summary>
+    <div>
+      <h4>Frontend</h4>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
+      <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
+      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+      
+      <h4>Backend</h4>
+      <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python"/>
+      <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js"/>
+      <img src="https://img.shields.io/badge/-Express.js-787878?style=for-the-badge&logo=express"/>
+      
+      <h4>Database</h4>
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb"/>
+    </div>
+  </details>
+</div>
+
 <br/>
 
 <div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  
+  <details>
+    <summary><h3>📈 Click for Detailed Stats</h3></summary>
+    <div>
+      <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=keremerkengel&theme=midnight-purple&border_radius=10" />
+      <img width="390" src="https://github-readme-stats.vercel.app/api?username=keremerkengel&show_icons=true&theme=midnight-purple&border_radius=10" />
+      <br/>
+      <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremerkengel&theme=midnight-purple&border_radius=10" />
+    </div>
+  </details>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keremerkengel&theme=high-contrast&bg_color=000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+  <h2>🎯 Latest Projects</h2>
+  
+  <details>
+    <summary><h3>🌟 Click to see featured projects</h3></summary>
+    <div>
+      <a href="https://github.com/keremerkengel/repo-adı">
+        <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=repo-adı&theme=midnight-purple&border_radius=10"/>
+      </a>
+      <a href="https://github.com/keremerkengel/repo-adı">
+        <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=repo-adı&theme=midnight-purple&border_radius=10"/>
+      </a>
+    </div>
+  </details>
+</div>
+
+<div align="center">
+  <h2>🤝 Connect With Me</h2>
   <a href="linkedin-linkiniz">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
   </a>
@@ -62,13 +83,16 @@
   <a href="mailto:mailiniz">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/>
   </a>
-  <a href="portfolio-linkiniz">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=8B5CF6"/>
-  </a>
 </div>
-
-<br/>
 
 <div align="center">
-  <img height="100" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:8B5CF6&height=100&section=footer"/>
+  <h2>👀 Profile Views</h2>
+  <img src="https://profile-counter.glitch.me/keremerkengel/count.svg" />
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
+
+<!-- Gizli emoji gülücük -->
+<h6>🎮 PS: Click on the snakes, they don't bite! And try finding all hidden details 🎮</h6>
