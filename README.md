@@ -85,19 +85,26 @@
 </div>
 
 <div align="center">
-  <h2>🤝 Let's Connect!</h2>
-  <a href="linkedin-linkiniz">
+  <h2>🤝 Connect With Me</h2>
+  <!-- Sosyal Medya Bağlantıları -->
+  <a href="https://www.linkedin.com/in/keremerkengel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
   </a>
-  <a href="twitter-linkiniz">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=8B5CF6"/>
+  <a href="https://x.com/kerem_erkngl24" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=8B5CF6"/>
   </a>
-  <a href="portfolio-linkiniz">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=8B5CF6"/>
+  <a href="https://www.instagram.com/kerem_erkngl24/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8B5CF6"/>
+  </a>
+  <a href="https://medium.com/@keremerkengel" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=8B5CF6"/>
+  </a>
+  <br/>
+  <h3>📝 Check out my latest articles on Medium!</h3>
+  <a href="https://medium.com/@keremerkengel" target="_blank">
+    <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@keremerkengel&theme=dark"/>
   </a>
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
-
