@@ -17,10 +17,7 @@
   <!-- Ana Teknolojiler -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next&theme=dark&perline=6" />
   
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-    UI & Styling
-  </h2>
+
   
   <!-- UI Teknolojileri -->
   <img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,figma&theme=dark&perline=4" />
