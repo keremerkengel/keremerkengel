@@ -27,6 +27,10 @@
 </div>
 <div align="center">
   <h2>Featured Projects</h2>
+  
+      <a href="https://github.com/keremerkengel/restaurant-menu">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=restaurant-menu&theme=midnight-purple&border_radius=10"/>
+      </a>
 
    
 
