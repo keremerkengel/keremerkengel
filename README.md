@@ -1,80 +1,74 @@
 <div align="center">
-  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Kerem%20Erkengel's%20Profile&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=white"/>
+  <img height="200" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:8B5CF6&height=200&section=header&text=Kerem%20Erkengel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descAlign=50"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+💻;Always+learning+new+things+🚀;Passionate+about+coding+⚡️;4%2B+years+of+coding+experience+🎯&font=Fira%20Code&center=true&width=480&height=50&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%AF;Tech+Explorer+%F0%9F%9A%80;Creative+Coder+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/keremerkengel?style=for-the-badge&logo=github&labelColor=1f2233&color=5865F2)](https://github.com/keremerkengel?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/keremerkengel?style=for-the-badge&logo=github&labelColor=1f2233&color=5865F2)](https://github.com/keremerkengel?tab=stars)
-  
+  <a href="https://github.com/keremerkengel?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/keremerkengel?color=8B5CF6&style=for-the-badge&labelColor=1f2233&logo=star"/></a>
+  <a href="https://github.com/keremerkengel?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/keremerkengel?color=8B5CF6&labelColor=1f2233&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<br/>
 
-<h3 align="center">🚀 Tech Stack</h3>
+<h2 align="center">⚡ Tech Stack</h2>
+<br/>
 
 <div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  
+<img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,python,git,figma&theme=dark&perline=4" />
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<br/>
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h2 align="center">📊 Statistics</h2>
+<br/>
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=keremerkengel&theme=midnight-purple&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=keremerkengel&count_private=true&show_icons=true&theme=midnight-purple&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremerkengel&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=keremerkengel&theme=tokyonight"/>
-</p>
+<br/>
 
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keremerkengel&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<h3 align="center">🏆 Featured Projects</h3>
+<h2 align="center">🏆 Featured Projects</h2>
+<br/>
 
 <div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=repo-adı&theme=tokyonight)](https://github.com/keremerkengel/repo-adı)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=repo-adı&theme=tokyonight)](https://github.com/keremerkengel/repo-adı)
-  
+  <a href="https://github.com/keremerkengel/repo-adı">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=repo-adı&theme=midnight-purple&border_radius=10" alt="readme stats" />
+  </a>
+  <a href="https://github.com/keremerkengel/repo-adı">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=repo-adı&theme=midnight-purple&border_radius=10" alt="readme stats" />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<br/>
 
-<h3 align="center">🤝 Connect With Me</h3>
+<h2 align="center">🤝 Connect With Me</h2>
+<br/>
 
-<p align="center">
-  <a href="linkedin-linkiniz" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <a href="linkedin-linkiniz">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
   </a>
-  <a href="twitter-linkiniz" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <a href="twitter-linkiniz">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=8B5CF6"/>
   </a>
-  <a href="portfolio-linkiniz" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  <a href="mailto:mailiniz">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/>
   </a>
-</p>
+  <a href="portfolio-linkiniz">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=8B5CF6"/>
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<br/>
+
+<div align="center">
+  <img height="100" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:8B5CF6&height=100&section=footer"/>
+</div>
