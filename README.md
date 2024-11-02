@@ -10,7 +10,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1">via GIPHY</a></p>>
+    <img src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1">
 
   </h2>
 
