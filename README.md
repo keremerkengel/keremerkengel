@@ -57,5 +57,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,A78BFA,C4B5FD&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2E1065,4C1D95,6D28D9,7C3AED&height=100&section=footer&animation=twinkling"/>
 </div>
