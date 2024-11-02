@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next&theme=dark&perline=6" />
   
   <h3> Development Tools</h3>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,figma&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,figma&theme=dark&perline=4" />
   
   <details>
     <summary><h3>🎯 Detailed Skills</h3></summary>
