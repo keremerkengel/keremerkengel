@@ -1,23 +1,82 @@
-<h1 align="center">I'm Kerem Erkengel</h1>
-<h3 align="center">Full Stack Web Developer Candidate</h3>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Kerem Erkengel's Profile! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript , Node.js**
-
-- 📫 How to reach me **keremerkengel@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kerem_erkngl24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kerem_erkngl24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/keremerkengel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keremerkengel" height="30" width="40" /></a>
-<a href="https://instagram.com/kerem_erkngl24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kerem_erkngl24" height="30" width="40" /></a>
-<a href="https://medium.com/@keremerkengel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@keremerkengel" height="30" width="40" /></a>
-<a href="/https://linktr.ee/keremerkengel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://linktr.ee/keremerkengel" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things;%2B4+years+of+coding+experience&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://twitter.com/kerem_erkngl24" target="blank"><img src="https://img.shields.io/twitter/follow/kerem_erkngl24?logo=twitter&style=for-the-badge" alt="kerem_erkngl24" /></a> </p>
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/keremerkengel?style=for-the-badge&logo=github&labelColor=1f2233&color=5865F2)](https://github.com/keremerkengel?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/keremerkengel?style=for-the-badge&logo=github&labelColor=1f2233&color=5865F2)](https://github.com/keremerkengel?tab=stars)
+  
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<h3 align="center">🚀 Tech Stack</h3>
+
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=keremerkengel&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keremerkengel&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<h3 align="center">🏆 Featured Projects</h3>
+
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=repo-adı&theme=tokyonight)](https://github.com/keremerkengel/repo-adı)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=repo-adı&theme=tokyonight)](https://github.com/keremerkengel/repo-adı)
+  
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<h3 align="center">🤝 Connect With Me</h3>
+
+<p align="center">
+  <a href="linkedin-linkiniz" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="twitter-linkiniz" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="portfolio-linkiniz" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
