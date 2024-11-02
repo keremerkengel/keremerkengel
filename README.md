@@ -9,17 +9,12 @@
 </div>
 
 <div align="center">
-  <h2>
-    <img src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1">
-
-  </h2>
-
-
+  <h2>Technologies & Tools</h2>
 
   <h3>Main Technologies</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next&theme=dark&perline=6" />
   
-  <h3> Development Tools</h3>
+  <h3>Development Tools</h3>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vscode,figma&theme=dark&perline=4" />
   
   <details>
@@ -27,10 +22,8 @@
     <div>
       <h4>🎨 Styling</h4>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
       
       <h4>⚡ Core</h4>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -53,10 +46,7 @@
 </div>
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-    Featured Projects
-  </h2>
+  <h2>Featured Projects</h2>
   
   <details>
     <summary><h3>🌟 Click to see my works</h3></summary>
@@ -81,10 +71,7 @@
 </div>
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="28">
-    Latest Medium Article
-  </h2>
+  <h2>Latest Medium Article</h2>
 
   <a href="https://medium.com/@keremerkengel/ad%C4%B1m-ad%C4%B1m-kendi-web-projelerini-i%CC%87n%C5%9Fa-et-frontende-yolculuk-4f369e82f78b" target="_blank">
     <img src="https://img.shields.io/badge/Adım_Adım_Kendi_Web_Projelerini_İnşa_Et:_Frontend'e_Yolculuk-000000?style=for-the-badge&logo=medium&logoColor=white"/>
@@ -92,10 +79,7 @@
 </div>
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/c8SKOuS54ZhGE/giphy.gif" width="28">
-    Let's Connect!
-  </h2>
+  <h2>Let's Connect!</h2>
   
   <a href="https://www.linkedin.com/in/keremerkengel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
