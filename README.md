@@ -1,11 +1,9 @@
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Welcome to Kerem Erkengel's Profile! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<div align="center">
+  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Kerem%20Erkengel's%20Profile&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=white"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things;%2B4+years+of+coding+experience&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+💻;Always+learning+new+things+🚀;Passionate+about+coding+⚡️;4%2B+years+of+coding+experience+🎯&font=Fira%20Code&center=true&width=480&height=50&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <div align="center">
