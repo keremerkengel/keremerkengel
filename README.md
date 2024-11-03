@@ -27,6 +27,10 @@
     <a href="https://medium.com/@keremerkengel/react-ile-i%CC%87lk-ad%C4%B1mlar-basit-bir-uygulama-nas%C4%B1l-yap%C4%B1l%C4%B1r-d43757c7b928b" target="_blank">
    <img src="https://img.shields.io/badge/React_ile_İlk_Adımlar:_Basit_Bir_Uygulama_Nasıl_Yapılır-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 
+   <a href="https://medium.com/@keremerkengel/tailwind-css-ile-h%C4%B1zl%C4%B1-ve-verimli-tasar%C4%B1mlar-fa6eeff74179" target="_blank">
+   <img src="https://img.shields.io/badge/Tailwind_CSS_ile_Hızlı_ve_Verimli_Tasar%C4%B1mlar-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+
+
 
   </a>
 </div>
