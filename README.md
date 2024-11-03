@@ -23,6 +23,9 @@
 
   <a href="https://medium.com/@keremerkengel/ad%C4%B1m-ad%C4%B1m-kendi-web-projelerini-i%CC%87n%C5%9Fa-et-frontende-yolculuk-4f369e82f78b" target="_blank">
     <img src="https://img.shields.io/badge/Adım_Adım_Kendi_Web_Projelerini_İnşa_Et:_Frontend'e_Yolculuk-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a><br>
+    <a href="https://medium.com/@keremerkengel/ad%C4%B1m-ad%C4%B1m-kendi-web-projelerini-i%CC%87n%C5%9Fa-et-frontende-yolculuk-4f369e82f78b" target="_blank">
+    <img src="https://img.shields.io/badge/Adım_Adım_Kendi_Web_Projelerini_İnşa_Et:_Frontend'e_Yolculuk-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </div>
 <div align="center">
