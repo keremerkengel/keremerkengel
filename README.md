@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Adım_Adım_Kendi_Web_Projelerini_İnşa_Et:_Frontend'e_Yolculuk-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a><br>
     <a href="https://medium.com/@keremerkengel/react-ile-i%CC%87lk-ad%C4%B1mlar-basit-bir-uygulama-nas%C4%B1l-yap%C4%B1l%C4%B1r-d43757c7b928b" target="_blank">
-    <img src="https://img.shields.io/badge/Adım_Adım_Kendi_Web_Projelerini_İnşa_Et:_Frontend'e_Yolculuk-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+
   </a>
 </div>
 <div align="center">
