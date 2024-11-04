@@ -46,7 +46,7 @@
   <a href="https://github.com/keremerkengel/GetLife">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=GetLife&theme=midnight-purple&border_radius=10"/>
   </a>
-  </a>
+  </a> <br/><br/>
     <a href="https://github.com/keremerkengel/credit-card-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=credit-card-project&theme=midnight-purple&border_radius=10"/>
   </a>
