@@ -1,215 +1,107 @@
-# 👋 Hello, World! I'm Kerem Erkengel
-
+<!-- HERO SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%26+Full-Stack+Developer;Building+Tomorrow's+Technology+Today;Machine+Learning+%7C+Data+Science+%7C+Web+Dev" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kerem+Erkengel;AI+Enthusiast+%7C+Full-Stack+Developer;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=header" width="100%" />
 </div>
 
 ---
 
-## 🎯 About Me
+## 👋 About Me
 
-```typescript
-const kerem = {
-  role: "AI Engineer & Full-Stack Developer",
-  location: "Turkey 🇹🇷",
-  focus: ["Artificial Intelligence", "Machine Learning", "Web Development"],
-  currentlyWorking: "Building intelligent systems that solve real-world problems",
-  learning: ["Advanced Deep Learning", "MLOps", "Cloud Architecture"],
-  askMeAbout: ["AI", "Python", "React", "Data Science", "Open Source"],
-  funFact: "I believe AI will reshape every industry, and I want to be part of that transformation!"
-};
-```
+I'm a passionate software developer focused on **Artificial Intelligence** and **Full-Stack Web Development**.  
+I enjoy building projects that solve real-world problems and contribute to open-source communities.  
+Currently leveling up in backend systems and ML modeling.
 
-<details>
-<summary>🔍 More About My Journey</summary>
-
-<br>
-
-I'm passionate about leveraging cutting-edge technology to create meaningful solutions. My expertise spans across multiple domains:
-
-- **🤖 AI & Machine Learning**: Developing intelligent systems using TensorFlow, PyTorch, and scikit-learn
-- **🌐 Full-Stack Development**: Building scalable web applications with modern frameworks
-- **📊 Data Science**: Extracting insights from complex datasets to drive decision-making
-- **📝 Technical Writing**: Sharing knowledge through detailed articles and tutorials
-
-</details>
+### 🔍 Focus Areas
+- 🤖 AI & Machine Learning  
+- 🌐 Full-Stack Development (React, Next.js, Node.js)  
+- 📊 Data Science & Analytics  
+- 🚀 Open Source & Collaboration
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+### ⚙️ Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-181717?style=for-the-badge&logo=next.js)
 
-### 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,tensorflow,pytorch" />
+### 🤖 AI/ML & Data
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-181717?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-181717?style=for-the-badge&logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-181717?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-181717?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-181717?style=for-the-badge&logo=numpy)
 
-### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,vscode,docker,linux,vercel" />
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-181717?style=for-the-badge&logo=visual-studio-code)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-181717?style=for-the-badge&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-181717?style=for-the-badge&logo=node.js)
 
 </div>
 
 ---
 
-## 🎯 Professional Expertise
+## 🌟 Featured Projects
 
 <div align="center">
 
-### 🧠 Machine Learning & AI
-**Deep Learning** • **Computer Vision** • **Natural Language Processing** • **Predictive Analytics**
+### 💰 Savings Tracker Pro  
+*Track your savings and financial goals with advanced visualizations*
 
-### 🌐 Full-Stack Development  
-**Frontend Engineering** • **Backend Architecture** • **Database Design** • **API Development**
+### 🔤 MNIST Digit Recognizer  
+*Deep learning model for handwritten digit recognition using PyTorch*
 
-### 📊 Data Science & Engineering
-**Data Pipeline Design** • **Statistical Analysis** • **Data Visualization** • **Big Data Processing**
+### 🎬 Movie Recommendation System  
+*Personalized film suggestions using collaborative filtering*
 
-</div>
+### 🗺️ Concept Map Builder  
+*Visual concept mapping tool for learning and mind organization*
 
----
+<br/>
 
-## 🚀 Selected Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<h3>🏦 Savings Tracker Pro</h3>
-<p><em>Advanced personal finance management system with intelligent analytics</em></p>
-
-**Technologies:** React, Node.js, MongoDB  
-**Key Features:**
-- Real-time budget tracking
-- Predictive financial insights
-- Goal-oriented savings plans
-- Interactive data visualizations
-
-<a href="https://github.com/keremerkengel/savings-tracker-pro">
-  <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/keremerkengel?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/➕_See_All_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-<td width="50%">
-<h3>🧠 MNIST Recognition System</h3>
-<p><em>Deep learning model for handwritten digit classification</em></p>
-
-**Technologies:** Python, TensorFlow, Keras  
-**Key Features:**
-- 98.5% accuracy rate
-- Real-time digit recognition
-- Optimized neural network architecture
-- Interactive web interface
-
-<a href="https://github.com/keremerkengel/mnist-el-yazisi-tanima">
-  <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>🎬 Intelligent Film Recommender</h3>
-<p><em>ML-powered movie recommendation engine</em></p>
-
-**Technologies:** Python, Pandas, Scikit-learn  
-**Key Features:**
-- Collaborative filtering algorithm
-- Content-based recommendations
-- User preference learning
-- Scalable recommendation pipeline
-
-<a href="https://github.com/keremerkengel/film-oneri-sistemi">
-  <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%">
-<h3>🗺️ Concept Map Generator</h3>
-<p><em>AI-powered educational visualization tool</em></p>
-
-**Technologies:** Python, NetworkX, NLP  
-**Key Features:**
-- Automated concept extraction
-- Visual learning pathways
-- Interactive knowledge graphs
-- Educational content analysis
-
-<a href="https://github.com/keremerkengel/Kavram_Haritasi_Olusturucu">
-  <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
 
-## ✍️ Technical Writing & Knowledge Sharing
+## ✍️ Latest Medium Articles
 
 <div align="center">
-
-### 📝 Featured Medium Articles
 
 <a href="https://medium.com/@keremerkengel/veriyle-yolculuk-makine-%C3%B6%C4%9Frenmesinde-veri-%C3%B6n-i%CC%87%C5%9Fleme-rehberi-d5a10656fe1e" target="_blank">
-  <img src="https://img.shields.io/badge/📊_Data_Journey:_ML_Data_Preprocessing_Guide-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E"/>
+  <img src="https://img.shields.io/badge/📊_Data_Preprocessing_in_ML-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@keremerkengel/makine-%C3%B6%C4%9Frenmesi-verilerle-%C3%B6%C4%9Frenen-sistemler-fc4b7b0296ce" target="_blank">
-  <img src="https://img.shields.io/badge/🤖_Machine_Learning:_Data_Driven_Systems-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E"/>
+  <img src="https://img.shields.io/badge/🤖_Machine_Learning_Fundamentals-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-### 📚 Article Topics
-- **Data Science & ML**: Comprehensive guides on machine learning workflows
-- **AI Applications**: Practical implementations of AI in real-world scenarios
-- **Tech Tutorials**: Step-by-step development guides
-
 </div>
 
 ---
 
-## 🎯 Professional Focus
+## 📫 Let's Connect!
 
 <div align="center">
-
-### 🚀 Current Initiatives
-**Building AI-powered solutions** that solve real-world problems through innovative technology and data-driven insights.
-
-### 🎓 Continuous Learning
-**Advanced Deep Learning** • **MLOps & Production AI** • **Cloud Architecture** • **System Design**
-
-### 💡 Innovation Areas
-**Computer Vision Applications** • **Natural Language Processing** • **Predictive Analytics** • **Intelligent Automation**
-
-</div>
-
-### 🎯 2024 Professional Goals
-- **Open Source Contributions**: Contributing to major AI/ML projects and libraries
-- **Technical Leadership**: Mentoring developers and leading technical initiatives  
-- **Knowledge Sharing**: Publishing comprehensive technical articles and tutorials
-- **Product Innovation**: Developing production-ready AI applications with measurable impact
-
----
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-
-### 💬 Let's Build Something Amazing Together!
 
 <a href="https://www.linkedin.com/in/keremerkengel/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://x.com/kerem_erkngl24" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/kerem_erkngl24/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -218,29 +110,14 @@ I'm passionate about leveraging cutting-edge technology to create meaningful sol
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-### 📧 Professional Inquiries
-**Email:** kerem.erkengel@example.com  
-**Open to:** Collaborations, Consulting, Speaking Opportunities
-
-</div>
-
----
-
-## 💡 Fun Facts & Interests
-
-<div align="center">
-
-| 🎯 **Problem Solver** | 🌱 **Continuous Learner** | 🤝 **Team Player** |
-|:---:|:---:|:---:|
-| Love tackling complex challenges with elegant solutions | Always exploring new technologies and methodologies | Believe in the power of collaboration and knowledge sharing |
-
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+🚀;Let's+build+innovative+solutions+together;Open+to+collaboration+and+new+opportunities" alt="Footer Message" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=586069&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🚀;Let’s+build+the+future+together!;Always+open+to+collaboration+🤝" alt="Footer" />
 </div>
