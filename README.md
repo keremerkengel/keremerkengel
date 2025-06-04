@@ -44,94 +44,106 @@ I'm passionate about leveraging cutting-edge technology to create meaningful sol
 
 <div align="center">
 
-### 🔥 Core Technologies
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind" />
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 
-### 🤖 AI & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+### 🚀 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,tensorflow,pytorch" />
 
-### 🛠️ Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
-
-### ☁️ Cloud & Deployment
-<img src="https://skillicons.dev/icons?i=vercel,netlify,heroku" />
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,vscode,docker,linux,vercel" />
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 🎯 Professional Expertise
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=keremerkengel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=keremerkengel&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keremerkengel&theme=tokyonight" alt="GitHub Streak" />
-</div>
+### 🧠 Machine Learning & AI
+**Deep Learning** • **Computer Vision** • **Natural Language Processing** • **Predictive Analytics**
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keremerkengel&theme=tokyo-night&hide_border=true" />
+### 🌐 Full-Stack Development  
+**Frontend Engineering** • **Backend Architecture** • **Database Design** • **API Development**
+
+### 📊 Data Science & Engineering
+**Data Pipeline Design** • **Statistical Analysis** • **Data Visualization** • **Big Data Processing**
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 <div align="center">
-
-### 💼 Professional Projects
 
 <table>
 <tr>
 <td width="50%">
+<h3>🏦 Savings Tracker Pro</h3>
+<p><em>Advanced personal finance management system with intelligent analytics</em></p>
 
-**🏦 Savings Tracker Pro**
-> Advanced personal finance management system with AI-powered insights
+**Technologies:** React, Node.js, MongoDB  
+**Key Features:**
+- Real-time budget tracking
+- Predictive financial insights
+- Goal-oriented savings plans
+- Interactive data visualizations
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=savings-tracker-pro&theme=tokyonight&border_radius=10)](https://github.com/keremerkengel/savings-tracker-pro)
-
-**Tech Stack:** React, Node.js, MongoDB  
-**Features:** Budget tracking, Financial analytics, Goal setting
+<a href="https://github.com/keremerkengel/savings-tracker-pro">
+  <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 <td width="50%">
+<h3>🧠 MNIST Recognition System</h3>
+<p><em>Deep learning model for handwritten digit classification</em></p>
 
-**🧠 MNIST Handwriting Recognition**
-> Deep learning model for handwritten digit classification
+**Technologies:** Python, TensorFlow, Keras  
+**Key Features:**
+- 98.5% accuracy rate
+- Real-time digit recognition
+- Optimized neural network architecture
+- Interactive web interface
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=mnist-el-yazisi-tanima&theme=tokyonight&border_radius=10)](https://github.com/keremerkengel/mnist-el-yazisi-tanima)
-
-**Tech Stack:** Python, TensorFlow, Keras  
-**Accuracy:** 98.5% on test dataset
+<a href="https://github.com/keremerkengel/mnist-el-yazisi-tanima">
+  <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
+<h3>🎬 Intelligent Film Recommender</h3>
+<p><em>ML-powered movie recommendation engine</em></p>
 
-**🎬 Film Recommendation System**
-> Machine learning-powered movie recommendation engine
+**Technologies:** Python, Pandas, Scikit-learn  
+**Key Features:**
+- Collaborative filtering algorithm
+- Content-based recommendations
+- User preference learning
+- Scalable recommendation pipeline
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=film-oneri-sistemi&theme=tokyonight&border_radius=10)](https://github.com/keremerkengel/film-oneri-sistemi)
-
-**Tech Stack:** Python, Pandas, Scikit-learn  
-**Algorithm:** Collaborative filtering, Content-based
+<a href="https://github.com/keremerkengel/film-oneri-sistemi">
+  <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 <td width="50%">
+<h3>🗺️ Concept Map Generator</h3>
+<p><em>AI-powered educational visualization tool</em></p>
 
-**🗺️ Concept Map Generator**
-> AI-powered educational tool for visual learning
+**Technologies:** Python, NetworkX, NLP  
+**Key Features:**
+- Automated concept extraction
+- Visual learning pathways
+- Interactive knowledge graphs
+- Educational content analysis
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=Kavram_Haritasi_Olusturucu&theme=tokyonight&border_radius=10)](https://github.com/keremerkengel/Kavram_Haritasi_Olusturucu)
-
-**Tech Stack:** Python, NetworkX, NLP  
-**Use Case:** Educational visualization
+<a href="https://github.com/keremerkengel/Kavram_Haritasi_Olusturucu">
+  <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -164,35 +176,26 @@ I'm passionate about leveraging cutting-edge technology to create meaningful sol
 
 ---
 
-## 🎯 Current Focus & Goals
+## 🎯 Professional Focus
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Kerem's Focus))
-    AI Research
-      Deep Learning
-      Computer Vision
-      NLP Applications
-    Professional Growth
-      Open Source Contributions
-      Technical Leadership
-      Mentoring
-    Innovation
-      AI-Powered Solutions
-      Startup Ideas
-      Industry Impact
-```
+### 🚀 Current Initiatives
+**Building AI-powered solutions** that solve real-world problems through innovative technology and data-driven insights.
+
+### 🎓 Continuous Learning
+**Advanced Deep Learning** • **MLOps & Production AI** • **Cloud Architecture** • **System Design**
+
+### 💡 Innovation Areas
+**Computer Vision Applications** • **Natural Language Processing** • **Predictive Analytics** • **Intelligent Automation**
 
 </div>
 
-### 🎯 2024 Goals
-- [ ] Contribute to 5+ major open-source AI projects
-- [ ] Publish 12 technical articles on Medium
-- [ ] Build and deploy 3 production-ready AI applications
-- [ ] Speak at 2 tech conferences/meetups
-- [ ] Mentor 10+ junior developers
+### 🎯 2024 Professional Goals
+- **Open Source Contributions**: Contributing to major AI/ML projects and libraries
+- **Technical Leadership**: Mentoring developers and leading technical initiatives  
+- **Knowledge Sharing**: Publishing comprehensive technical articles and tutorials
+- **Product Innovation**: Developing production-ready AI applications with measurable impact
 
 ---
 
@@ -238,8 +241,6 @@ mindmap
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Let's+innovate+and+build+the+future+together!;Always+open+to+new+opportunities+and+collaborations!" alt="Footer Message" />
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=keremerkengel&label=Profile%20views&color=2F81F7&style=flat)
-  [![GitHub followers](https://img.shields.io/github/followers/keremerkengel?label=Followers&style=social)](https://github.com/keremerkengel)
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+🚀;Let's+build+innovative+solutions+together;Open+to+collaboration+and+new+opportunities" alt="Footer Message" />
+
 </div>
