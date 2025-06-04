@@ -37,6 +37,7 @@ I'm a passionate software developer focused on **Artificial Intelligence** and *
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -50,19 +51,19 @@ I'm a passionate software developer focused on **Artificial Intelligence** and *
 <div align="center">
 
 <a href="https://github.com/keremerkengel/savings-tracker-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=savings-tracker-pro&theme=default&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=savings-tracker-pro&theme=default&border_radius=10" alt="Savings Tracker Pro"/>
 </a>
 
 <a href="https://github.com/keremerkengel/mnist-el-yazisi-tanima">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=mnist-el-yazisi-tanima&theme=default&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=mnist-el-yazisi-tanima&theme=default&border_radius=10" alt="MNIST El Yazısı Tanıma"/>
 </a>
 
 <a href="https://github.com/keremerkengel/film-oneri-sistemi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=film-oneri-sistemi&theme=default&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=film-oneri-sistemi&theme=default&border_radius=10" alt="Film Öneri Sistemi"/>
 </a>
 
 <a href="https://github.com/keremerkengel/Kavram_Haritasi_Olusturucu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=Kavram_Haritasi_Olusturucu&theme=default&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=Kavram_Haritasi_Olusturucu&theme=default&border_radius=10" alt="Kavram Haritası Oluşturucu"/>
 </a>
 
 </div>
@@ -74,12 +75,24 @@ I'm a passionate software developer focused on **Artificial Intelligence** and *
 <div align="center">
 
 <a href="https://medium.com/@keremerkengel/veriyle-yolculuk-makine-%C3%B6%C4%9Frenmesinde-veri-%C3%B6n-i%CC%87%C5%9Fleme-rehberi-d5a10656fe1e" target="_blank">
-  <img src="https://img.shields.io/badge/📊_Veriyle_Yolculuk:_Makine_Öğrenmesinde_Veri_Ön_İşleme_Rehberi-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📊_Veriyle_Yolculuk:_Makine_Öğrenmesinde_Veri_Ön_İşleme_Rehberi-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Veriyle Yolculuk Article"/>
 </a>
 
 <a href="https://medium.com/@keremerkengel/makine-%C3%B6%C4%9Frenmesi-verilerle-%C3%B6%C4%9Frenen-sistemler-fc4b7b0296ce" target="_blank">
-  <img src="https://img.shields.io/badge/🤖_Makine_Öğrenmesi:_Verilerle_Öğrenen_Sistemler-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🤖_Makine_Öğrenmesi:_Verilerle_Öğrenen_Sistemler-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Makine Öğrenmesi Article"/>
 </a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=keremerkengel&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremerkengel&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -90,16 +103,16 @@ I'm a passionate software developer focused on **Artificial Intelligence** and *
 <div align="center">
 
 <a href="https://www.linkedin.com/in/keremerkengel/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://x.com/kerem_erkngl24" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
 </a>
 <a href="https://www.instagram.com/kerem_erkngl24/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://medium.com/@keremerkengel" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 
 </div>
@@ -107,5 +120,5 @@ I'm a passionate software developer focused on **Artificial Intelligence** and *
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=586069&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!;Always+open+to+collaboration+%F0%9F%A4%9D" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=586069&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing+together!;Always+open+to+collaboration+🤝" alt="Footer" />
 </div>
