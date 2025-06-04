@@ -86,18 +86,6 @@ I'm a passionate software developer focused on **Artificial Intelligence** and *
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=keremerkengel&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremerkengel&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
