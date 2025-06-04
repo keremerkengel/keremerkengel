@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=0366D6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kerem+Erkengel;AI+Enthusiast+%7C+Full-Stack+Developer;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
+<!-- AI-Themed Visual -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://images.unsplash.com/photo-1581093588401-9be3f52f9d5a?auto=format&fit=crop&w=1000&q=80" alt="AI Illustration" width="800" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+</div>
+
 ---
 
 ## 👨‍💻 About Me
