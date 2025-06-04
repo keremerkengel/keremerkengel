@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=0366D6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kerem+Erkengel;AI+Enthusiast+%7C+Full-Stack+Developer;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
+</div>
+
 ---
 
 ## 👋 About Me
@@ -49,20 +53,22 @@ I'm a passionate software developer focused on **Artificial Intelligence** and *
 
 <div align="center">
 
-<a href="https://github.com/keremerkengel/savings-tracker-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=savings-tracker-pro&theme=default&border_radius=10"/>
-</a>
+### 💰 Savings Tracker Pro
+*A comprehensive savings tracking application with advanced analytics*
 
-<a href="https://github.com/keremerkengel/mnist-el-yazisi-tanima">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=mnist-el-yazisi-tanima&theme=default&border_radius=10"/>
-</a>
+### 🔤 MNIST El Yazısı Tanıma
+*Handwritten digit recognition using machine learning*
 
-<a href="https://github.com/keremerkengel/film-oneri-sistemi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=film-oneri-sistemi&theme=default&border_radius=10"/>
-</a>
+### 🎬 Film Öneri Sistemi
+*AI-powered movie recommendation system*
 
-<a href="https://github.com/keremerkengel/Kavram_Haritasi_Olusturucu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keremerkengel&repo=Kavram_Haritasi_Olusturucu&theme=default&border_radius=10"/>
+### 🗺️ Kavram Haritası Oluşturucu
+*Concept mapping tool for educational purposes*
+
+<br>
+
+<a href="https://github.com/keremerkengel?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/View_All_Projects-0366D6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -85,7 +91,7 @@ I'm a passionate software developer focused on **Artificial Intelligence** and *
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Let's Connect!
 
 <div align="center">
 
@@ -105,6 +111,10 @@ I'm a passionate software developer focused on **Artificial Intelligence** and *
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=586069&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!;Always+open+to+collaboration+%F0%9F%A4%9D" alt="Footer" />
